@@ -1,0 +1,1 @@
+const hallsHandler = require('../halls');  // nije potreno /index jer je to default
